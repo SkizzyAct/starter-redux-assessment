@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## AI Usage
-As per the "Pair Programming with AI assistants" lesson in this course, Github Copilot was used for minor assistance such as catching small syntax mistakes and/or inline suggestions.
+As per the "Pair Programming with AI assistants" lesson in this course, Github Copilot was used for minor assistance such as catching small syntax mistakes and inline suggestions.
 
 ### Available scripts
 
