@@ -2,7 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available scripts
+## AI Usage
+As per the "Pair Programming with AI assistants" lesson in this course, Github Copilot was used for minor assistance such as catching small syntax mistakes and/or inline suggestions.
+
+### Available scripts
 
 In the project directory, you can run the following commands:
 
